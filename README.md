@@ -62,9 +62,9 @@ features Image has (the goal is to be fully compaitable with Image and support a
 Just two simple steps:
 
 ```console
-npm install --save react-native-photo-view
+npm install --save https://github.com/bugsniper/react-native-photo-view
 ```
-
+If your project is below than react-native 0.60.0
 ```console
 react-native link react-native-photo-view
 ```
